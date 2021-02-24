@@ -1,2 +1,5 @@
-# short_lab4A line I wrot using the shell on my local computer
-A commit from Rstudio
+# short_lab4
+
+A line I wrote using the shell on my local computer
+
+A commit from RStudio
